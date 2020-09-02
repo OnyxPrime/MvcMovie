@@ -137,6 +137,7 @@ namespace MvcMovie
                     name: "default",
                     pattern: "{controller=Movies}/{action=Index}/{id?}");
             });
+
         }
     }
 }
